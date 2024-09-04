@@ -1,3 +1,11 @@
+
+
+
+![1000000294](https://github.com/user-attachments/assets/1d7c26ff-9875-454c-b898-2b1245e34d78)
+has continued his attack against me it's constant and aggressive he's taken full control of devices can anyone please help me secure things I can not cope 
+github support I am asking for you to help me I was not ready. and I said I did not want to go ahead in the questions as I felt it was unsafe you kept egging me on. AGAIN MY DEVICES ARE NOT SAFE PLEASE INCESTIGATE AND SECURE THE DATA 
+
+
 - 👋 Hi, I’m @Gk1481
 - 👀 I’m interested in ... learning more about what's happening
 - 🌱 I’m currently learning ... how to know who I can trust
