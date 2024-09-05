@@ -1,4 +1,27 @@
-
+– oauth_access.regenerate
+Regenerated a token for Gk1481 ending in h64ZXcQz for the GitHub Codespaces GitHub App.
+86.146.32.164 Dewsbury, England, United Kingdom yesterday …
+@timestamp
+2024-09-05 01:07:22 +0100
+_document_id
+1pAUKnI4-KWFlO8-pmAHug
+action
+oauth_access.regenerate
+actor
+Gk1481
+actor_id
+180450383
+created_at
+2024-09-05 01:07:22 +0100
+hashed_token
+operation_type
+modify
+user
+Gk1481
+user_agent
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36 EdgA/127.0.0.0
+user_id
+180450383
 
 
 ![1000000294](https://github.com/user-attachments/assets/1d7c26ff-9875-454c-b898-2b1245e34d78)
